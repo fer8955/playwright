@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import exp from 'constants';
-import { LoginPage } from './pageObjects/loginPage';
+import { LoginPage } from './pageObjects/LoginPage';
 
 test('test mercado libre', async ({ page }) => {
 
